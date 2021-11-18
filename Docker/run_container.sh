@@ -1,0 +1,1 @@
+docker run -it -v /usr/lib/arm-linux-gnueabihf:/opt/lib bird_container bash
