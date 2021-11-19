@@ -1,1 +1,1 @@
-docker run -it -v /usr/lib/arm-linux-gnueabihf:/opt/lib bird_container bash
+docker run -it -v /opt/vc:/opt/vc bird_container bash
