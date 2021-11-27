@@ -1,1 +1,1 @@
-docker run -it -v /opt/vc:/opt/vc bird_container bash
+docker run -it -v /opt/vc:/opt/vc -p 5022:22 bird_container bash
