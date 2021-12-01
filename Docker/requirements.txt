@@ -1,3 +1,7 @@
 flask
 rpi.gpio
 picamera
+pytest
+black
+Pillow
+numpy
