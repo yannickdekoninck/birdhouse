@@ -26,8 +26,15 @@ After the reboot
 curl -sSL https://get.docker.com | sh
 ```
 
+To enable numpy:
+
+```
+sudo apt-get install libatlas-base-dev
+```
+
 ### setting up ssh
 
 https://dev.to/s1ntaxe770r/how-to-setup-ssh-within-a-docker-container-i5i
 
 https://www.cloudsavvyit.com/13937/how-to-ssh-into-a-docker-container/
+
